@@ -17,4 +17,4 @@ Railway compressor degradation can cause delays and maintenance costs. We explor
 - `src/features/`: minute-level temporal features.
 - `src/models/`: fitting, scoring, saving, loading.
 - `src/evaluation/`: descriptive incident-based assessment.
-- `data/raw/`: original CSV (not tracked); `data/processed/`: generated features (not tracked); `models/`: generated fitted artifacts (not tracked).
+- `data/raw/`: original CSV (not tracked); `data/processed/`: generated features (not tracked); `models/`: generated fitted artifacts (not tracked)
